@@ -1,12 +1,12 @@
 title: The ramblings of a gay nerd
 author:
   name: Riley Nitschke
-  email: nits0070@asms.sa.edu.au
+  email: theramblingsofagayman@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   The ramblings of a gay nerd from South Australia, who has far too 
   much time on his hands to talk about maths, science, the humanities,
   and art. 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -17,8 +17,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: troagm
+    github:  Weirdguyz
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
