@@ -1,0 +1,5 @@
+# Build Settings
+theme: minima
+
+minima:
+  skin: dark
